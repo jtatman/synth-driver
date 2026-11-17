@@ -5,3 +5,14 @@
 .beads-credential-key
 .beads/proxieddb/
 *.gate.lock*
+
+# private
+.venv
+.env
+exports/
+AGENTS.md
+CLAUDE.md
+
+# repo-specific
+mnemoria/
+.codegraph/

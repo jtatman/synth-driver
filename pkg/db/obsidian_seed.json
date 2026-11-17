@@ -1,0 +1,2560 @@
+[
+  {
+    "title": "Prog House/Trance — Cmaj7 – Gmaj7 – Am7 – Fmaj7",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "C",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] A lush, uplifting progression that’s perfect for creating a warm, euphoric vibe.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 1 (Cmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "",
+        "function": "Bar 2 (Gmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am7",
+        "roman": "",
+        "function": "Bar 3 (Am7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "",
+        "function": "Bar 4 (Fmaj7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Dm7 – Fmaj7 – Cmaj7 – Gsus4",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "D",
+    "mode": "Aeolian / Modal",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] This progression adds a touch of tension with the suspended chord, making it ideal for intros or breakdowns.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Dm7",
+        "roman": "",
+        "function": "Bar 1 (Dm7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "",
+        "function": "Bar 2 (Fmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 3 (Cmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gsus4",
+        "roman": "",
+        "function": "Bar 4 (Gsus4)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Fmaj7 – Cmaj7 – Am7 – Gmaj7",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "F",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] Smooth and flowing, this is a classic progression that works well for layering with pads and arpeggios.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Fmaj7",
+        "roman": "",
+        "function": "Bar 1 (Fmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 2 (Cmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am7",
+        "roman": "",
+        "function": "Bar 3 (Am7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "",
+        "function": "Bar 4 (Gmaj7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Am7 – Cmaj7 – Gmaj7 – Dsus4",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] This progression moves effortlessly, offering both tension and resolution, great for driving a track forward.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am7",
+        "roman": "",
+        "function": "Bar 1 (Am7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 2 (Cmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "",
+        "function": "Bar 3 (Gmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Dsus4",
+        "roman": "",
+        "function": "Bar 4 (Dsus4)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Em7 – Cmaj7 – Gmaj7 – Dmaj7",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "E",
+    "mode": "Aeolian / Modal",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] A progression that feels expansive, perfect for creating a dreamy atmosphere in your track.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Em7",
+        "roman": "",
+        "function": "Bar 1 (Em7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 2 (Cmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "",
+        "function": "Bar 3 (Gmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Dmaj7",
+        "roman": "",
+        "function": "Bar 4 (Dmaj7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Fmaj7 – Am7 – Gmaj7 – Em7",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "F",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] This sequence creates a beautiful ebb and flow, ideal for building up to a peak.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Fmaj7",
+        "roman": "",
+        "function": "Bar 1 (Fmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am7",
+        "roman": "",
+        "function": "Bar 2 (Am7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "",
+        "function": "Bar 3 (Gmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Em7",
+        "roman": "",
+        "function": "Bar 4 (Em7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Cmaj7 – Gsus4 – Dm7 – Am7",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "C",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] Offering a mix of major and minor chords, this progression adds depth and complexity.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 1 (Cmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gsus4",
+        "roman": "",
+        "function": "Bar 2 (Gsus4)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Dm7",
+        "roman": "",
+        "function": "Bar 3 (Dm7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am7",
+        "roman": "",
+        "function": "Bar 4 (Am7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Dm7 – Bbmaj7 – Fmaj7 – Cmaj7",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "D",
+    "mode": "Aeolian / Modal",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] A soulful progression that’s both emotive and powerful, great for deeper tracks.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Dm7",
+        "roman": "",
+        "function": "Bar 1 (Dm7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Bbmaj7",
+        "roman": "",
+        "function": "Bar 2 (Bbmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "",
+        "function": "Bar 3 (Fmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 4 (Cmaj7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Gmaj7 – Bm7 – Em7 – Dsus4",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "G",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] This progression offers a bright and uplifting feel, making it a go-to for energetic builds.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Gmaj7",
+        "roman": "",
+        "function": "Bar 1 (Gmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Bm7",
+        "roman": "",
+        "function": "Bar 2 (Bm7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Em7",
+        "roman": "",
+        "function": "Bar 3 (Em7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Dsus4",
+        "roman": "",
+        "function": "Bar 4 (Dsus4)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Am7 – Fmaj7 – Cmaj7 – Gmaj7",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] A versatile progression that works well in various contexts, from chilled-out sections to high-energy peaks.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am7",
+        "roman": "",
+        "function": "Bar 1 (Am7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "",
+        "function": "Bar 2 (Fmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 3 (Cmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "",
+        "function": "Bar 4 (Gmaj7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Em – C – G – D",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "E",
+    "mode": "Aeolian / Modal",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] A classic trance progression that’s simple but incredibly effective, great for driving melodies.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Em9",
+        "roman": "",
+        "function": "Bar 1 (Em)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 2 (C)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gadd9",
+        "roman": "",
+        "function": "Bar 3 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "D7sus4",
+        "roman": "",
+        "function": "Bar 4 (D)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Am – F – G – C",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] This progression is both uplifting and anthemic, perfect for creating that festival vibe.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "",
+        "function": "Bar 2 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gadd9",
+        "roman": "",
+        "function": "Bar 3 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 4 (C)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — F – C – G – Am",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "F",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] A versatile progression that’s easy to build upon, offering a mix of light and dark tones.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Fadd9",
+        "roman": "",
+        "function": "Bar 1 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 2 (C)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gadd9",
+        "roman": "",
+        "function": "Bar 3 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am11",
+        "roman": "",
+        "function": "Bar 4 (Am)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Em – G – D – Bm",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "E",
+    "mode": "Aeolian / Modal",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] Adds a touch of melancholy while maintaining a driving energy, perfect for emotional breakdowns.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Em9",
+        "roman": "",
+        "function": "Bar 1 (Em)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "",
+        "function": "Bar 2 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Dadd9",
+        "roman": "",
+        "function": "Bar 3 (D)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Bm11",
+        "roman": "",
+        "function": "Bar 4 (Bm)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Am – G – F – Em",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] A deeper, moodier progression that’s great for late-night trance tracks.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "",
+        "function": "Bar 2 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fadd9",
+        "roman": "",
+        "function": "Bar 3 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Em11",
+        "roman": "",
+        "function": "Bar 4 (Em)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Bm – A – G – D",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "B",
+    "mode": "Aeolian / Modal",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] This sequence has a rolling feel, making it perfect for driving rhythms and pulsating basslines.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Bm9",
+        "roman": "",
+        "function": "Bar 1 (Bm)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Amaj7",
+        "roman": "",
+        "function": "Bar 2 (A)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gadd9",
+        "roman": "",
+        "function": "Bar 3 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "D7sus4",
+        "roman": "",
+        "function": "Bar 4 (D)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — C – G – Am – F",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "C",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] A timeless progression that’s easy to work with and can be used in various trance styles.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Cadd9",
+        "roman": "",
+        "function": "Bar 1 (C)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "",
+        "function": "Bar 2 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am9",
+        "roman": "",
+        "function": "Bar 3 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "",
+        "function": "Bar 4 (F)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Gm – Eb – Bb – F",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "G",
+    "mode": "Aeolian / Modal",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] A darker, more dramatic progression, ideal for adding intensity to your track.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Gm9",
+        "roman": "",
+        "function": "Bar 1 (Gm)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Ebmaj7",
+        "roman": "",
+        "function": "Bar 2 (Eb)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Bbadd9",
+        "roman": "",
+        "function": "Bar 3 (Bb)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "",
+        "function": "Bar 4 (F)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Dm – Bb – F – C",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "D",
+    "mode": "Aeolian / Modal",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] This sequence offers a mix of tension and resolution, making it great for creating builds and drops.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Dm9",
+        "roman": "",
+        "function": "Bar 1 (Dm)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Bbmaj7",
+        "roman": "",
+        "function": "Bar 2 (Bb)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fadd9",
+        "roman": "",
+        "function": "Bar 3 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 4 (C)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "Prog House/Trance — Fm – Db – Ab – Eb",
+    "genre": "Progressive House \u0026 Trance",
+    "root_key": "F",
+    "mode": "Aeolian / Modal",
+    "bpm": 128,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 20 Inspiring Progressive House and Trance Chord Progressions] A lush, cinematic progression that works beautifully in intros and breakdowns.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Fm9",
+        "roman": "",
+        "function": "Bar 1 (Fm)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Dbmaj7",
+        "roman": "",
+        "function": "Bar 2 (Db)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Abadd9",
+        "roman": "",
+        "function": "Bar 3 (Ab)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Ebmaj7",
+        "roman": "",
+        "function": "Bar 4 (Eb)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:20 Inspiring Progressive House and Trance Chord Progressions.md"
+  },
+  {
+    "title": "1. i–VI–III–VII: The Open, Anthemic Progression (Uplifting Trance)",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: 7 Uplifting Trance Chord Progressions That Actually Work] Start with the tonic minor, open into two relative-major colours and finish on VII, which naturally wants to cycle back to i. This is a dependable uplifting-trance foundation because the tonic is clear without dominating every bar. In a breakdown, try one chord per two bars with an added ninth in the top voice. In the anthem, shorten the same harmony into a rhythmic offbeat or eighth-note pattern while keeping the bass on roots.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "i",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "VI",
+        "function": "Bar 2 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cadd9",
+        "roman": "III",
+        "function": "Bar 3 (C)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "VII",
+        "function": "Bar 4 (G)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:7 Uplifting Trance Chord Progressions That Actually Work.md"
+  },
+  {
+    "title": "2. VI–III–VII–i: Delay the Tonic for a Strong Arrival (Uplifting Trance)",
+    "genre": "Trance",
+    "root_key": "F",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: 7 Uplifting Trance Chord Progressions That Actually Work] The loop begins away from home and lets the final chord deliver the emotional resolution. Use this when the melody needs to feel as if it is searching before it lands. A long tonic at the end of the breakdown can make the transition into the build feel earned. To keep the loop flowing, retain common tones between F and C, then move the upper voices by small intervals into G and Am.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Fadd9",
+        "roman": "VI",
+        "function": "Bar 1 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "III",
+        "function": "Bar 2 (C)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gadd9",
+        "roman": "VII",
+        "function": "Bar 3 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am11",
+        "roman": "i",
+        "function": "Bar 4 (Am)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:7 Uplifting Trance Chord Progressions That Actually Work.md"
+  },
+  {
+    "title": "3. i–VII–VI–VII: A Driving Circular Motion (Uplifting Trance)",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: 7 Uplifting Trance Chord Progressions That Actually Work] A descending move from i to VI creates direction; returning to VII keeps the loop permanently in motion. This progression suits sections that should feel urgent rather than resolved. The bass can play long roots while a pluck or arp outlines chord tones above. Because G appears twice, change its inversion or rhythm on the second appearance so the loop evolves without changing its function.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "i",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "VII",
+        "function": "Bar 2 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fadd9",
+        "roman": "VI",
+        "function": "Bar 3 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "VII",
+        "function": "Bar 4 (G)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:7 Uplifting Trance Chord Progressions That Actually Work.md"
+  },
+  {
+    "title": "Uplifting Trance — 4. i–III–VII–VI: Wide and Cinematic",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: 7 Uplifting Trance Chord Progressions That Actually Work] The jump from i to III immediately brightens the harmony before the sequence descends toward VI. This progression works well under long pads, vocal textures and breakdown pianos. Keep the lower voicing compact and let one upper note climb across the chords. That independent top line can later become a counter-melody or the seed of the lead.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "i",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "III",
+        "function": "Bar 2 (C)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gadd9",
+        "roman": "VII",
+        "function": "Bar 3 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "VI",
+        "function": "Bar 4 (F)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:7 Uplifting Trance Chord Progressions That Actually Work.md"
+  },
+  {
+    "title": "Uplifting Trance — 5. VI–VII–i–VII: Lift, Resolve, Return",
+    "genre": "Trance",
+    "root_key": "F",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: 7 Uplifting Trance Chord Progressions That Actually Work] Two rising roots create lift into i, while the final VII immediately reopens the loop. Try this when a build needs a clear upward pull. A simple bass line makes the direction obvious; the upper voices can remain smoother by holding common tones and using inversions. The progression is especially effective when the melody peaks over the tonic rather than over the final VII.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Fadd9",
+        "roman": "VI",
+        "function": "Bar 1 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "VII",
+        "function": "Bar 2 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am9",
+        "roman": "i",
+        "function": "Bar 3 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "VII",
+        "function": "Bar 4 (G)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:7 Uplifting Trance Chord Progressions That Actually Work.md"
+  },
+  {
+    "title": "6. i–v–VI–VII: Darker Tension Before the Rise (Uplifting Trance)",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: 7 Uplifting Trance Chord Progressions That Actually Work] The minor dominant keeps the first half restrained; VI and VII then create a clear upward path. Use it for a more introspective breakdown or a driving trance section with a darker centre. If Em feels too static, change the voicing before changing the chord: move B or E into the top line, add a seventh carefully, or let an arp imply motion between the sustained harmonies.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "i",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Em11",
+        "roman": "v",
+        "function": "Bar 2 (Em)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fadd9",
+        "roman": "VI",
+        "function": "Bar 3 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "VII",
+        "function": "Bar 4 (G)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:7 Uplifting Trance Chord Progressions That Actually Work.md"
+  },
+  {
+    "title": "Uplifting Trance — 7. i–VI–iv–VII: Emotional Contrast",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: 7 Uplifting Trance Chord Progressions That Actually Work] The move to iv deepens the minor colour before VII restores forward energy. This is useful when i–VI–III–VII feels too bright or familiar. The iv chord adds emotional weight without leaving the key. Keep Dm away from the lowest midrange if the pad and bass are already dense; inversion and octave placement matter as much as the chord choice.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "i",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "VI",
+        "function": "Bar 2 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Dm9",
+        "roman": "iv",
+        "function": "Bar 3 (Dm)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "VII",
+        "function": "Bar 4 (G)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:7 Uplifting Trance Chord Progressions That Actually Work.md"
+  },
+  {
+    "title": "Classic Trance — Trance Archetype #1 (I-IV-V-I)",
+    "genre": "Trance",
+    "root_key": "C",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks] The I-IV-V-I chord progression is a classic in the music world and finds its unique expression in trance. It’s a simple yet effective progression that creates a sense of resolution and completion, often used in uplifting trance tracks. For example, this progression is masterfully employed in the song “Blah Blah Blah” by Armin Van Buuren where it underpins the track’s energetic and compelling nature. In this chord progression, the movement from the tonic (I) to the subdominant (IV) and then to the dominant (V) before returning to the tonic (I) creates a satisfying musical journey.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Cmaj7",
+        "roman": "I",
+        "function": "Bar 1 (Cmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "IV",
+        "function": "Bar 2 (Fmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "V",
+        "function": "Bar 3 (G7sus4)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "I",
+        "function": "Bar 4 (Cmaj7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks.md"
+  },
+  {
+    "title": "Classic Trance — Trance Archetype #2 (ii-V-I)",
+    "genre": "Trance",
+    "root_key": "D",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks] The ii-V-I chord progression is another staple in trance music, known for its smooth, flowing sound. It’s a progression that brings a sense of momentum and forward movement, often used in more melodic trance tracks. Many trance tracks utilize this chord progression, but a notable example is Tiësto’s “Adagio for Strings,” where this chord progression adds to the track’s emotional depth and narrative. This chord progression:",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Dm9",
+        "roman": "ii",
+        "function": "Bar 1 (Dm9)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "V",
+        "function": "Bar 2 (G7sus4)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "I",
+        "function": "Bar 3 (Cmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "I",
+        "function": "Bar 4 (Cmaj7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks.md"
+  },
+  {
+    "title": "Classic Trance — Trance Archetype #3 (I-V-vi-IV)",
+    "genre": "Trance",
+    "root_key": "C",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks] The I-V-vi-IV chord progression is a versatile and popular choice in trance music and EDM in general, renowned for its emotionally evocative quality. This progression can be heard in the song “Sun \u0026 Moon” by Above \u0026 Beyond, where it contributes to the track’s poignant and uplifting atmosphere. This chord progression’s strength lies in its ability to balance familiarity with innovation. The movement from the tonic (I) to the dominant (V), then to the relative minor (vi), and finally to the subdominant (IV) offers a journey through a range of emotions.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Cmaj7",
+        "roman": "I",
+        "function": "Bar 1 (Cmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "V",
+        "function": "Bar 2 (G7sus4)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am9",
+        "roman": "vi",
+        "function": "Bar 3 (Am9)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "IV",
+        "function": "Bar 4 (Fmaj7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks.md"
+  },
+  {
+    "title": "Classic Trance — Trance Archetype #4 (vi-IV-I-V)",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks] The vi-IV-I-V chord progression is another hallmark in trance music, often used to create a sense of longing and emotional depth. A great example of this chord progression in action is Dash Berlin’s track “Till The Sky Falls Down.” This chord progression will not only sound good, but it underlies the track’s deeply resonant and emotive quality. Starting with the relative minor (vi) sets a somber tone, which is then lifted by the subdominant (IV) and tonic (I) before the dominant (V) adds a final twist of tension.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "vi",
+        "function": "Bar 1 (Am9)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "IV",
+        "function": "Bar 2 (Fmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "I",
+        "function": "Bar 3 (Cmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "V",
+        "function": "Bar 4 (G7sus4)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks.md"
+  },
+  {
+    "title": "Classic Trance — Trance Archetype #5 (I-vi-IV-V)",
+    "genre": "Trance",
+    "root_key": "C",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks] The I-vi-IV-V progression is a classic in trance music, offering a blend of optimism and introspection. It’s exemplified in the song Ferry Corsten’s song “Anahera,” which forms the backbone of the track’s uplifting yet reflective mood. This chord progression starts with the tonic (I), establishing a strong base, before moving to the relative minor (vi) to add depth. The subdominant (IV) then provides a sense of anticipation 一 meshing with the dominant (V) for a powerful resolution.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Cmaj7",
+        "roman": "I",
+        "function": "Bar 1 (Cmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am9",
+        "roman": "vi",
+        "function": "Bar 2 (Am9)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "IV",
+        "function": "Bar 3 (Fmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "V",
+        "function": "Bar 4 (G7sus4)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks.md"
+  },
+  {
+    "title": "Classic Trance — Trance Archetype #6 (vi-ii-V-I)",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks] The vi-ii-V-I chord progression is a sophisticated choice in trance music, known for its smooth and melodious flow. This chord progression is beautifully demonstrated in the song “Strobe” by Deadmau5. where it enhances the track’s dreamy and ethereal quality. Starting with the relative minor (vi) chord introduces a reflective mood, followed by the supertonic (ii) that adds complexity. The dominant (V) then heightens the tension, and the resolution on the tonic (I) brings a satisfying sense of completion.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "vi",
+        "function": "Bar 1 (Am9)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Dm9",
+        "roman": "ii",
+        "function": "Bar 2 (Dm9)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "V",
+        "function": "Bar 3 (G7sus4)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "I",
+        "function": "Bar 4 (Cmaj7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks.md"
+  },
+  {
+    "title": "Classic Trance — Trance Archetype #7 (IV-I-V-vi)",
+    "genre": "Trance",
+    "root_key": "F",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks] The IV-I-V-vi chord progression offers a fresh and invigorating take in trance music, often used to create an uplifting and joyous atmosphere. This progression is a key element in the song “Clarity” by Zedd featuring Foxes, where it underpins the tracks inspiring and euphoric feel. The use of the subdominant (IV) as the starting point sets an expansive tone, leading into the tonic (I) for stability, followed by the dominant (V) to escalate excitement. Finally, culminating in the relative minor (vi) for a touch of emotional depth.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Fmaj7",
+        "roman": "IV",
+        "function": "Bar 1 (Fmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "I",
+        "function": "Bar 2 (Cmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "V",
+        "function": "Bar 3 (G7sus4)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am9",
+        "roman": "vi",
+        "function": "Bar 4 (Am9)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks.md"
+  },
+  {
+    "title": "Classic Trance — Trance Archetype #8 (I-IV-vi-V)",
+    "genre": "Trance",
+    "root_key": "C",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks] The I-IV-vi-V chord progression is a testament to the versatility of chord progressions in trance music. This sequence can be found in Markus Schulz’s “Destiny,” where it shapes the track’s narrative, weaving together moments of clarity and introspection. The I-IV-vi-V chord progression: - Starts with the tonic (I) 一 Offering a solid foundation.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Cmaj7",
+        "roman": "I",
+        "function": "Bar 1 (Cmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "IV",
+        "function": "Bar 2 (Fmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am9",
+        "roman": "vi",
+        "function": "Bar 3 (Am9)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "V",
+        "function": "Bar 4 (G7sus4)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks.md"
+  },
+  {
+    "title": "Classic Trance — Trance Archetype #9 (vi-V-IV-III)",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: 9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks] The vi-V-IV-III progression brings a unique twist to trance music, offering a blend of melancholy and resolution that can be deeply moving. This is evident in Andrew Rayel’s “My Reflection” (which was originally posted with a different progression), where the progression adds a profound emotional depth to the track. Starting with the relative minor (vi) sets an introspective tone, followed by the dominant (V) which introduces a sense of urgency. Then, it moves to the subdominant (IV) for a moment of calm, and finally, the mediant (III) offers an unexpected but satisfying resolution.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "vi",
+        "function": "Bar 1 (Am9)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "V",
+        "function": "Bar 2 (G7sus4)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "IV",
+        "function": "Bar 3 (Fmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "III",
+        "function": "Bar 4 (Cmaj7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:9 Trance Chord Progressions For Powerful \u0026 Exhilarating Tracks.md"
+  },
+  {
+    "title": "E Minor Electronic — Minor with a lift",
+    "genre": "Dark Electronic / E Minor",
+    "root_key": "E",
+    "mode": "Aeolian / Modal",
+    "bpm": 130,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "networking"
+    ],
+    "theory_notes": "[Obsidian: Chord Progressions in E Minor, With MIDI] i, iv, VII, III. Starts dark and ends on a major chord, so the loop always wants to go round again.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Em9",
+        "roman": "i",
+        "function": "Bar 1 (Em)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am11",
+        "roman": "iv",
+        "function": "Bar 2 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Em11",
+        "roman": "i(9)",
+        "function": "Bar 3 (Em11)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am11",
+        "roman": "iv(alt)",
+        "function": "Bar 4 (Am11)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Chord Progressions in E Minor, With MIDI.md"
+  },
+  {
+    "title": "E Minor Electronic — Minor sevenths",
+    "genre": "Dark Electronic / E Minor",
+    "root_key": "E",
+    "mode": "Aeolian / Modal",
+    "bpm": 130,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "networking"
+    ],
+    "theory_notes": "[Obsidian: Chord Progressions in E Minor, With MIDI] i7 to iv7. Soft and moody, with the colour in the sevenths. At home in deep house and lo-fi.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Em7",
+        "roman": "i7",
+        "function": "Bar 1 (Em7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am7",
+        "roman": "iv7",
+        "function": "Bar 2 (Am7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Em7",
+        "roman": "i7(9)",
+        "function": "Bar 3 (Em7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am7",
+        "roman": "iv7(alt)",
+        "function": "Bar 4 (Am7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Chord Progressions in E Minor, With MIDI.md"
+  },
+  {
+    "title": "E Minor Electronic — Stepping down",
+    "genre": "Dark Electronic / E Minor",
+    "root_key": "E",
+    "mode": "Aeolian / Modal",
+    "bpm": 130,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "networking"
+    ],
+    "theory_notes": "[Obsidian: Chord Progressions in E Minor, With MIDI] i, VII, VI, v. Walking down the scale from the tonic, a natural-minor version of the descending Andalusian cadence.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Em9",
+        "roman": "i",
+        "function": "Bar 1 (Em)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Bm11",
+        "roman": "v",
+        "function": "Bar 2 (Bm)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Em11",
+        "roman": "i(9)",
+        "function": "Bar 3 (Em11)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Bm11",
+        "roman": "v(alt)",
+        "function": "Bar 4 (Bm11)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Chord Progressions in E Minor, With MIDI.md"
+  },
+  {
+    "title": "Deep House 7ths — Dorian i7 to IV7",
+    "genre": "Deep House / Dorian",
+    "root_key": "A",
+    "mode": "Dorian",
+    "bpm": 122,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "housemusic"
+    ],
+    "theory_notes": "[Obsidian: Deep House Chord Progressions With 7th Chords (MIDI)] Am7 to D7. The Dorian move: the major IV chord brightens the minor home chord.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am7",
+        "roman": "i7",
+        "function": "Bar 1 (Am7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "D7",
+        "roman": "IV7",
+        "function": "Bar 2 (D7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am7",
+        "roman": "i7(9)",
+        "function": "Bar 3 (Am7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "D7",
+        "roman": "IV7(alt)",
+        "function": "Bar 4 (D7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Deep House Chord Progressions With 7th Chords (MIDI).md"
+  },
+  {
+    "title": "Deep House 7ths — Minor sevenths",
+    "genre": "Deep House / Dorian",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 122,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "housemusic"
+    ],
+    "theory_notes": "[Obsidian: Deep House Chord Progressions With 7th Chords (MIDI)] i7 to v7. Two minor sevenths a fifth apart, smooth and late-night.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am7",
+        "roman": "i7",
+        "function": "Bar 1 (Am7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Em7",
+        "roman": "v7",
+        "function": "Bar 2 (Em7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am7",
+        "roman": "i7(9)",
+        "function": "Bar 3 (Am7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Em7",
+        "roman": "v7(alt)",
+        "function": "Bar 4 (Em7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Deep House Chord Progressions With 7th Chords (MIDI).md"
+  },
+  {
+    "title": "Deep House 7ths — Falling sevenths",
+    "genre": "Deep House / Dorian",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 122,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "housemusic"
+    ],
+    "theory_notes": "[Obsidian: Deep House Chord Progressions With 7th Chords (MIDI)] i7, VImaj7, VII7. A gentle three-chord loop with a lift at the end.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am7",
+        "roman": "i7",
+        "function": "Bar 1 (Am7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "VImaj7",
+        "function": "Bar 2 (Fmaj7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7",
+        "roman": "VII7",
+        "function": "Bar 3 (G7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7",
+        "roman": "VII7",
+        "function": "Bar 4 (G7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Deep House Chord Progressions With 7th Chords (MIDI).md"
+  },
+  {
+    "title": "Deep House 7ths — iv7 and back",
+    "genre": "Deep House / Dorian",
+    "root_key": "A",
+    "mode": "Dorian",
+    "bpm": 122,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "housemusic"
+    ],
+    "theory_notes": "[Obsidian: Deep House Chord Progressions With 7th Chords (MIDI)] i7, IV7, i7, v7. Four bars of Dorian that never leave the warmth of the home chord for long.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am7",
+        "roman": "i7",
+        "function": "Bar 1 (Am7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "D7",
+        "roman": "IV7",
+        "function": "Bar 2 (D7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am7",
+        "roman": "i7",
+        "function": "Bar 3 (Am7)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Em7",
+        "roman": "v7",
+        "function": "Bar 4 (Em7)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Deep House Chord Progressions With 7th Chords (MIDI).md"
+  },
+  {
+    "title": "Euphoric Trance — The euphoric minor loop",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: Trance Chord Progressions: 6 Euphoric Loops + Free MIDI] If you only learn one trance progression, make it this one. It starts sad on Am, then rises through three major chords and never fully settles, so it keeps pulling you into the next bar. One chord per bar, looped for the whole breakdown and drop. Voicing tip: keep your right hand in one spot. Am as A, C, E, then F as A, C, F, then C as G, C, E and G as G, B, D. Only one or two notes move each time, which keeps a wide supersaw from turning into mush.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "i",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "VI",
+        "function": "Bar 2 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cadd9",
+        "roman": "III",
+        "function": "Bar 3 (C)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "VII",
+        "function": "Bar 4 (G)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Trance Chord Progressions 6 Euphoric Loops + Free MIDI.md"
+  },
+  {
+    "title": "Euphoric Trance — The long climb",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: Trance Chord Progressions: 6 Euphoric Loops + Free MIDI] Every chord here steps higher than the last one, so the loop feels like it's climbing a staircase. The G at the end pulls hard back to Am, which makes it great for the last bars of a build. Try giving Am two bars and the other chords one bar each for an eight-bar phrase with a strong restart.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "i",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Dm11",
+        "roman": "iv",
+        "function": "Bar 2 (Dm)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fadd9",
+        "roman": "VI",
+        "function": "Bar 3 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "VII",
+        "function": "Bar 4 (G)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Trance Chord Progressions 6 Euphoric Loops + Free MIDI.md"
+  },
+  {
+    "title": "Euphoric Trance — The pedal tone",
+    "genre": "Trance",
+    "root_key": "F",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: Trance Chord Progressions: 6 Euphoric Loops + Free MIDI] Keep an A in the bass the whole time while the chords above it change. \"F/A\" just means an F chord with A as the lowest note. Against that steady A, the F and G chords rub a little, and when Am arrives everything clicks into place. This is perfect for a driving offbeat or rolling bass line that stays on one note, a classic trance and psytrance move. Play the bass on the off-beats between the kicks and let the chords do the moving.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Fadd9",
+        "roman": "VI",
+        "function": "Pedal Bass / F over A",
+        "transition_tip": "Keep A anchored in the Crave bass while East Beast shifts to F"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "VII",
+        "function": "Pedal Bass / G over A",
+        "transition_tip": "Keep A anchored in the Crave bass while East Beast shifts to G"
+      },
+      {
+        "symbol": "Am9",
+        "roman": "i",
+        "function": "Bar 3 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am11",
+        "roman": "over",
+        "function": "Bar 4 (Am11)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Trance Chord Progressions 6 Euphoric Loops + Free MIDI.md"
+  },
+  {
+    "title": "Euphoric Trance — The dramatic descent",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: Trance Chord Progressions: 6 Euphoric Loops + Free MIDI] Four chords stepping down, ending on E major instead of E minor. That E major chord contains a G#, a note borrowed from the harmonic minor scale, and it pulls very hard back to Am. The result sounds dark, cinematic and a little exotic. It works great for harder, darker trance or as a switch-up in the second half of a breakdown. Want to understand why that G# matters? Read major vs minor explained.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "i",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "VII",
+        "function": "Bar 2 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fadd9",
+        "roman": "VI",
+        "function": "Bar 3 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "E7sus4",
+        "roman": "V",
+        "function": "Bar 4 (E)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Trance Chord Progressions 6 Euphoric Loops + Free MIDI.md"
+  },
+  {
+    "title": "Euphoric Trance — The uplifting major anthem",
+    "genre": "Trance",
+    "root_key": "C",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "chords",
+      "trance"
+    ],
+    "theory_notes": "[Obsidian: Trance Chord Progressions: 6 Euphoric Loops + Free MIDI] The famous four-chord loop from pop, and a common progression in trance too. In trance it gets a different treatment: slower changes, a big supersaw, a gated pad underneath and a lead melody that rides on top. It's the brightest, most hands-in-the-air option on this list. Want more major loops in this direction? See our happy chord progressions.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Cadd9",
+        "roman": "I",
+        "function": "Bar 1 (C)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "V",
+        "function": "Bar 2 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am9",
+        "roman": "vi",
+        "function": "Bar 3 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "IV",
+        "function": "Bar 4 (F)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Trance Chord Progressions 6 Euphoric Loops + Free MIDI.md"
+  },
+  {
+    "title": "Armada/FSOE Trance — Am – F – C – G",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "trance",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: Trance Chord Progressions: 9 That Actually Work] the most-used trance loop there is. Starts on the \"sad\" chord, moves to F for lift, C for brightness, G to pull you back round. Use it when you want something instantly recognisable without sounding derivative — the magic is in the melody and sound design on top, not the chords themselves.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "",
+        "function": "Bar 2 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cadd9",
+        "roman": "",
+        "function": "Bar 3 (C)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "G7sus4",
+        "roman": "",
+        "function": "Bar 4 (G)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Trance Chord Progressions 9 That Actually Work.md"
+  },
+  {
+    "title": "Armada/FSOE Trance — Am – Em – F – C",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "trance",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: Trance Chord Progressions: 9 That Actually Work] softer movement than the one above, less of a \"drop\" feel and more of a rolling, hypnotic quality. Good for breakdowns where you want emotion without a big pull to resolve.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Em11",
+        "roman": "",
+        "function": "Bar 2 (Em)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fadd9",
+        "roman": "",
+        "function": "Bar 3 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 4 (C)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Trance Chord Progressions 9 That Actually Work.md"
+  },
+  {
+    "title": "Armada/FSOE Trance — Am – G – F – E",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "trance",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: Trance Chord Progressions: 9 That Actually Work] the classic uplifting trance cadence. That F to E movement is where the tension sits — E isn't in the natural A minor scale, so it creates a pull back to Am that feels inevitable. This is the shape under a huge number of FSOE and Suanda-style breakdowns.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "",
+        "function": "Bar 2 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fadd9",
+        "roman": "",
+        "function": "Bar 3 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "E7sus4",
+        "roman": "",
+        "function": "Bar 4 (E)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Trance Chord Progressions 9 That Actually Work.md"
+  },
+  {
+    "title": "Armada/FSOE Trance — Dm – Bb – F – C",
+    "genre": "Trance",
+    "root_key": "D",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "trance",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: Trance Chord Progressions: 9 That Actually Work] same relationship as progression 1, just moved to D minor. Use this if your vocal or lead sample naturally sits better a fourth up — saves you pitching everything.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Dm9",
+        "roman": "",
+        "function": "Bar 1 (Dm)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Bbmaj7",
+        "roman": "",
+        "function": "Bar 2 (Bb)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fadd9",
+        "roman": "",
+        "function": "Bar 3 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 4 (C)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Trance Chord Progressions 9 That Actually Work.md"
+  },
+  {
+    "title": "Armada/FSOE Trance — Am – F – G – Am",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "trance",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: Trance Chord Progressions: 9 That Actually Work] a tighter, more circular loop. Good for intros and outros where you want movement but don't want the harmonic tension of a full build.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "",
+        "function": "Bar 2 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gadd9",
+        "roman": "",
+        "function": "Bar 3 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am11",
+        "roman": "",
+        "function": "Bar 4 (Am)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Trance Chord Progressions 9 That Actually Work.md"
+  },
+  {
+    "title": "Armada/FSOE Trance — C – G – Am – F",
+    "genre": "Trance",
+    "root_key": "C",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "trance",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: Trance Chord Progressions: 9 That Actually Work] (the \"four chord\" progression) — instantly euphoric, slightly poppier than pure trance. Use sparingly or it'll feel like a different genre crept in.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Cadd9",
+        "roman": "",
+        "function": "Bar 1 (C)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gmaj7",
+        "roman": "",
+        "function": "Bar 2 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am9",
+        "roman": "",
+        "function": "Bar 3 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "",
+        "function": "Bar 4 (F)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Trance Chord Progressions 9 That Actually Work.md"
+  },
+  {
+    "title": "Armada/FSOE Trance — F – C – G – Am",
+    "genre": "Trance",
+    "root_key": "F",
+    "mode": "Ionian / Uplifting Major",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "trance",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: Trance Chord Progressions: 9 That Actually Work] same four chords, different starting point, completely different feel. Starting on F gives you lift straight away instead of easing into it. Good for second breakdowns after the crowd's already warmed up.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Fadd9",
+        "roman": "",
+        "function": "Bar 1 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cmaj7",
+        "roman": "",
+        "function": "Bar 2 (C)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gadd9",
+        "roman": "",
+        "function": "Bar 3 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Am11",
+        "roman": "",
+        "function": "Bar 4 (Am)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Trance Chord Progressions 9 That Actually Work.md"
+  },
+  {
+    "title": "Armada/FSOE Trance — Am – F – G – E",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Aeolian / Modal",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "trance",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: Trance Chord Progressions: 9 That Actually Work] swap the final chord for E and suddenly the loop refuses to resolve. This is your build-up tool — loop it under a riser and the tension does the work for you.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Fmaj7",
+        "roman": "",
+        "function": "Bar 2 (F)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Gadd9",
+        "roman": "",
+        "function": "Bar 3 (G)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "E7sus4",
+        "roman": "",
+        "function": "Bar 4 (E)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Trance Chord Progressions 9 That Actually Work.md"
+  },
+  {
+    "title": "Armada/FSOE Trance — Am – Bb – C – Bb",
+    "genre": "Trance",
+    "root_key": "A",
+    "mode": "Phrygian / Modal Tension",
+    "bpm": 138,
+    "complexity": 0.68,
+    "color_density": 0.84,
+    "tags": [
+      "obsidian",
+      "clippings",
+      "music",
+      "trance",
+      "chords"
+    ],
+    "theory_notes": "[Obsidian: Trance Chord Progressions: 9 That Actually Work] (Phrygian-adjacent movement) — less common, more unsettling. Sits well under darker, tech-trance style breakdowns where you want something moodier than the standard uplifting shape.",
+    "patch_suggestion": "Crave (Ch 1): Root + 5th + Step 8/16/24/32 chromatic glides. East Beast (Ch 2): 3rd/7th/9th upper voicing.",
+    "chords": [
+      {
+        "symbol": "Am9",
+        "roman": "",
+        "function": "Bar 1 (Am)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Bbmaj7",
+        "roman": "",
+        "function": "Bar 2 (Bb)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Cadd9",
+        "roman": "",
+        "function": "Bar 3 (C)",
+        "transition_tip": "Hold shared guide tones; step into next root on beat 4"
+      },
+      {
+        "symbol": "Bbmaj7",
+        "roman": "",
+        "function": "Bar 4 (Bb)",
+        "transition_tip": "Turnaround bar: inject chromatic approach or ratchet fill back to Bar 1"
+      }
+    ],
+    "source": "obsidian:Trance Chord Progressions 9 That Actually Work.md"
+  }
+]
