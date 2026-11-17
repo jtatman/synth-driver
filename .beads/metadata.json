@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "imagination_engine",
+  "project_id": "e5d15f8e-7cb9-4f79-8b2d-4a2a9b67adcd"
+}
